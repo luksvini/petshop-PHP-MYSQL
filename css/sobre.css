@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #f6f6f6;
+   overflow-x: hidden;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    background-color: #fa6196;
+    color: white;
+    font-size: 25px;
+    padding: 30px 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+
+span{
+    padding: 10px;
+}
+
+nav{
+    background-color: #fa6095;
+    color: #fff;
+    padding: 15px;
+    text-align: right;
+    margin-top: 15px;
+    width: 100%;
+    
+}
+
+nav a{
+    color: #fff;
+    padding: 25px;
+    margin: 80px;
+    
+}
+
+
+
+
+.logo img{
+    width: 15px;
+    border-radius: 50%;
+    width: 50px;
+    padding: 0 11px;
+
+}
+
+
+.container{
+   background-color: white;
+    width: 100%;
+    
+}
+
+
+.petshop1{
+    background-image: url("../assets/bcpage.jpeg") ;
+    background-size: cover;
+    background-position:center;
+    background-attachment: fixed;
+    width: 100%;
+    height: 860px;
+}
+
+
+.petshop2{
+    background-image: url("../assets/racoes.jpeg") ;
+    background-size: cover;
+    background-position:center;
+    background-attachment: fixed;
+    width: 100%;
+    height: 860px;
+}
+.petshop3{
+    background-image: url("../assets/Brinquedos.jpeg") ;
+    background-size: cover;
+    background-position:center;
+    background-attachment: fixed;
+    width: 100%;
+    height: 860px;
+}
+.petshop4{
+    background-image: url("../assets/Remedios.jpeg") ;
+    background-size: cover;
+    background-position:center;
+    background-attachment: fixed;
+    width: 100%;
+    height: 850px;
+}
+ .parallax-inner{
+    padding: 10% 0;
+ }
+ h2{
+    font-size: 32px;
+    color: #000000;
+    text-align: center;
+    font-weight: 300;
+    letter-spacing: 2px;
+  margin-top: 15px;
+ }
+ h1{
+    font-size: 120px;
+    text-align: center;
+    color: #000000;
+
+ }
+p
+{font-size: 16px;
+color: #000000;
+line-height: 30px;
+text-align: justify;
+}
